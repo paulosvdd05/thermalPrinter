@@ -71,8 +71,8 @@ const App = () => {
         onChangeText={(text) => setState((prev) => ({ ...prev, text }))}
       />
       <Button
-        title="Click to invoke your native module!"
-        color="#841584"
+        title="IMPRIMIR"
+        color="#f23829"
         onPress={onPress}
       />
     </SafeAreaView>
